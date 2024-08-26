@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "address": "123 Elm Street, Springfield, IL, 62704",
+      "price": 250000,
+      "description": "3-bedroom, 2-bathroom home with a spacious backyard.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336150"
+    },
+    {
+      "id": 2,
+      "address": "456 Maple Avenue, Rivertown, TX, 75001",
+      "price": 320000,
+      "description": "4-bedroom house with a large garden.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336151"
+    },
+    {
+      "id": 3,
+      "address": "789 Oak Street, Maplewood, CA, 90210",
+      "price": 300000,
+      "description": "Cozy 2-bedroom apartment.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336152"
+    },
+    {
+      "id": 4,
+      "address": "101 Pine Road, Lakeview, FL, 33101",
+      "price": 270000,
+      "description": "Charming 3-bedroom cottage with a lake view.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336153"
+    },
+    {
+      "id": 5,
+      "address": "202 Birch Lane, Forestville, WA, 98001",
+      "price": 350000,
+      "description": "Modern 5-bedroom home in a wooded area.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336154"
+    },
+    {
+      "id": 6,
+      "address": "303 Cedar Street, Townsville, NY, 10001",
+      "price": 290000,
+      "description": "Spacious 4-bedroom townhouse with a garage.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336155"
+    },
+    {
+      "id": 7,
+      "address": "404 Willow Drive, Hillside, OR, 97001",
+      "price": 280000,
+      "description": "Quaint 3-bedroom bungalow with a small garden.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336156"
+    },
+    {
+      "id": 8,
+      "address": "505 Spruce Avenue, Greenfield, CO, 80201",
+      "price": 330000,
+      "description": "Elegant 4-bedroom home with a large patio.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336157"
+    },
+    {
+      "id": 9,
+      "address": "606 Aspen Street, Ridgeview, AZ, 85001",
+      "price": 310000,
+      "description": "Stylish 3-bedroom condo with mountain views.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336158"
+    },
+    {
+      "id": 10,
+      "address": "707 Fir Road, Seaside, CA, 93901",
+      "price": 340000,
+      "description": "Beautiful 4-bedroom house close to the beach.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336159"
+    },
+    {
+      "id": 11,
+      "address": "808 Redwood Drive, Crestview, TN, 37201",
+      "price": 260000,
+      "description": "Cozy 2-bedroom cabin with a fireplace.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336160"
+    },
+    {
+      "id": 12,
+      "address": "909 Chestnut Lane, Hilltop, MI, 48001",
+      "price": 275000,
+      "description": "Lovely 3-bedroom house with a private driveway.",
+      "images": [
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJlYWwlMjBlc3RhdGV8ZW58MHx8MHx8fDA%3D"
+      ],
+      "contactInfo": "9302336161"
+    }
+  ]
+  

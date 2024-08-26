@@ -1,0 +1,55 @@
+
+
+/* dummy.css */
+.card-title, .price-text, .description-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  
+  .card-title {
+    font-size: 1.25rem; /* Adjust font size if needed */
+    margin-bottom: 0.5rem; /* Adjust spacing if needed */
+  }
+  
+  .price-text,.description-text {
+    font-size: 1rem; /* Adjust font size if needed */
+    margin-bottom: 0.5rem; /* Adjust spacing if needed */
+  }
+  
+  
+
+  #property-box{
+    box-shadow: 20px 20px 60px rgb(49, 46, 46);
+    
+  } 
+
+
+  .property-card {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Ensures that cards stretch to full height */
+  }
+  
+  .property-card img {
+    object-fit: cover; /* Ensures the image covers the container without distortion */
+    height: 200px; /* Fixed height for images */
+  }
+  
+  .card-body {
+    flex: 1; /* Ensures that card body expands to fill available space */
+  }
+  
+  .card-text.description {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Number of lines to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
